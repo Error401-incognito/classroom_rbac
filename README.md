@@ -64,7 +64,7 @@ This project is licensed under the **Kaviyavalli 4th Year License**. For more de
 
 ## License Details
 
-- **License Name:** Kaviyavalli 4th Year License
+- **License Name:** Kaviyavalli 4th Year
 - **License Holder:** PSG Institute of Technology and Applied Research
 
 ## Submission
